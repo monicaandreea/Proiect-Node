@@ -1,0 +1,21 @@
+Salut si la multi ani. Cerintele pentru proiect sunt urmatoarele:
+* Porniti de la exemplul de pe GitHub (https://github.com/virgilbugnariu/curs-node-2022)
+* Folositi stackul din timpul curuslui: JavaScript, Node, Express, express-graphql, sequelize
+* Migratii, seeederi, modele cu relatii intre ele
+    * Minim cate un exemplu din fiecare tip de relatie (one to one, one to many, many to many)
+* Autentificare cu JWT
+* API Graphql cu mutatii cu argumente si query-uri cu nested types
+    * min. 3-5 Mutatii
+    * min. 3 Query-uri
+* Pus pe GitHub
+* Sa porneasca
+
+Observatii:
+* Predarea trebuie facuta fizic in prezenta echipei in ultimele doua ore (11 si 18 Ianuarie)
+* Cine nu este prezent nu poate fi notat
+* Recomandam sa veniti cu ce aveti chiar daca nu este complet, important e sa urmareasca structura propusa in timpul cursului.
+* Fiecare membru al echipei o sa primeasca intrebari pe marginea codului din proiect.
+
+Timeline:
+* 4 Ianuarie - Online pentru intrebari
+* 11 si 18 Ianuarie - Predare fizic
